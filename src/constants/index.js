@@ -131,7 +131,7 @@ const jobs = [
     iconBg: "#ffffff",
     date: "2023 Summer Intern",
     points: [
-      "My role involves optimizing the integration between Site and Google Sheets, improving site automation to streamline data management.",
+      "My role involves optimizing the integration between Site and data, improving site automation to streamline data management.",
       "Additionally, I replicated an existing submission form and expand user functionality by creating personalized logins for clients.",
       "This work is focused on customizing user experiences and reducing manual data entry through efficient backend solutions.",
     ],
