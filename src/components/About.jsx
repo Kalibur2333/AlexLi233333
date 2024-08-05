@@ -47,14 +47,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As a student in Monash University, I bring a comprehensive IT background
-        with a diploma, a bachelor's, and ongoing master's studies. My expertise
-        spans from programming in Python, C++, and Java to database management
-        and network security. I excel in 3D animation, project management, and
-        software engineering, with distinctions in data science and database
-        technology. Currently, I'm enhancing my skills in React, .NET, cloud
-        computing, and UI/UX design, aiming to merge technical proficiency with
-        creative solution development.!
+        Hi, I'm Alex, a recent Master of Information Technology graduate from
+        Monash University. I bring a comprehensive IT background with a diploma,
+        a bachelor's, and master's studies. My expertise spans from programming
+        in Java to database management and network security. I excel in 3D
+        animation, project management, and software engineering, with
+        distinctions in data science and database technology. Currently, I'm
+        enhancing my skills in React, .NET, cloud computing, and UI/UX design,
+        aiming to merge technical proficiency with creative solution
+        development!
       </motion.p>
 
       {/*<div className="mt-20 flex flex-wrap gap-10">

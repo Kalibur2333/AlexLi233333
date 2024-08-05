@@ -34,6 +34,7 @@ import lup from "./company/lup.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import wordrobe from "./wordrobe.png";
 import tripguide from "./tripguide.png";
 import skyproject from "./skyproject.png";
 import cloud from "./cloud.png";
@@ -68,6 +69,7 @@ export {
   tesla,
   carrent,
   jobit,
+  wordrobe,
   tripguide,
   monash,
   unreal,

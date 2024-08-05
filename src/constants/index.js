@@ -21,6 +21,7 @@ import {
   shopify,
   carrent,
   jobit,
+  wordrobe,
   tripguide,
   threejs,
   maya,
@@ -91,24 +92,12 @@ const technologies = [
   },
 
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "sql",
     icon: sql,
   },
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
   {
     name: "maya",
@@ -131,7 +120,7 @@ const jobs = [
     iconBg: "#ffffff",
     date: "2023 Summer Intern",
     points: [
-      "My role involves optimizing the integration between Site and Google Sheets, improving site automation to streamline data management.",
+      "My role involves optimizing the integration between Client port and Data base, improving site automation to streamline data management.",
       "Additionally, I replicated an existing submission form and expand user functionality by creating personalized logins for clients.",
       "This work is focused on customizing user experiences and reducing manual data entry through efficient backend solutions.",
     ],
@@ -207,30 +196,38 @@ const projects = [
   {
     name: "Working on it !",
     description: "(Q.Q)",
+    tags: [],
+    image: carrent,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Fashion sustainability Web App",
+    description:
+      "It aims to address Australia's growing clothing waste problem, which is exacerbated by mass clothing consumption and unsustainable production practices. The website’s mission is to inform users about the impact of their fashion choices on the environment and encourage sustainable behavior changes to mitigate climate change. Ultimately, Wardrobe for Earth aims to foster a community of informed consumers who are committed to reducing Australia’s clothing waste problem and positively impacting the planet.",
     tags: [
       {
-        name: "React",
-        color: "blue-text-gradient",
+        name: ".Net Framework",
+        color: "pink-text-gradient",
       },
       {
         name: "Tailwind",
         color: "pink-text-gradient",
       },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "<-Probably",
-    description: "(0_0)",
-    tags: [
       {
-        name: "React",
-        color: "blue-text-gradient",
+        name: "Aws",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Arzue",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: wordrobe,
+    source_code_link: "https://github.com/Kalibur2333/FIT5120Project",
   },
   {
     name: "A Serverless Image Storage System with Tagging",
