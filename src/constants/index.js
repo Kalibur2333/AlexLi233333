@@ -115,7 +115,7 @@ const technologies = [
 const jobs = [
   {
     title: "Intern - Web/IT Developer ",
-    company_name: "LUP Global",
+    company_name: "LUP Global | Melbourne",
     icon: lup,
     iconBg: "#ffffff",
     date: "2023 Summer Intern",
@@ -232,7 +232,7 @@ const projects = [
   {
     name: "A Serverless Image Storage System with Tagging",
     description:
-      "A cloud-based, serverless system that enables customers to upload their images to public cloud storage. Users can upload images for the machine to perform object detection. The system identifies the object categories in the image and tags the image with these identified categories. In addition, the user can SEARCH image by tag, SEARCH image by image, and also edit the tags of the image or delete the image.",
+      "Monash FIT5225. A cloud-based, serverless system enables to upload images to cloud storage. Users can upload images to perform object detection. The system identifies the object categories in the image and tags the image with these identified categories. users can SEARCH image by tag, SEARCH image by image, and also edit the tags of the image or delete the image.",
     tags: [
       {
         name: "React",
